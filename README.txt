@@ -1,4 +1,5 @@
-Mon épicerie santé v4.5
-Mise à jour : bouton Gestion catégories, ajout/renommage/suppression de catégories, reclassement des ingrédients depuis le catalogue.
-Téléverser tous les fichiers à la racine du dépôt GitHub Pages MES.
-Les données existantes sont conservées via localStorage du même navigateur et de la même adresse.
+Mon épicerie santé v4.6
+8 nouveaux smoothies-dîners (4 chocolat, 4 vanille).
+Les ingrédients rejoignent automatiquement le catalogue, et le bouton Ajouter à mon épicerie les transfère à la liste.
+Remplacer les fichiers sur GitHub Pages dans le dépôt MES.
+Les valeurs nutritionnelles des recettes ajoutées sont des estimations.
